@@ -1,3 +1,4 @@
+//
 package com.src.activity2.hotelinfo;
 
 public class DeluxeACRoom extends DeluxeRoom{
